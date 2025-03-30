@@ -1,0 +1,6 @@
+/itinerary_planner_mvp
+│── app.py                # Main UI + flow
+│── ai_itinerary.py       # Mixtral (itinerary generation)
+│── ai_assistant.py       # Llama-3 (chatbot assistant)
+│── requirements.txt
+└── .env
